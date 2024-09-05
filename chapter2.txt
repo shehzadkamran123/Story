@@ -1,1 +1,3 @@
-It refers to saving changes in code to a repository. For instance, in Git, a developer "commits" changes, meaning they save a snapshot of their work.
+It refers to saving changes in code to a repository. For instance, in Git, a developer "commits" changes, meaning they save a snapshot of their work. 
+In version control systems like Git, a snapshot is a saved state of all files in a project at a specific commit.
+I am learning Version Control now-a-days.
