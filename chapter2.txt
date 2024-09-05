@@ -1,0 +1,1 @@
+It refers to saving changes in code to a repository. For instance, in Git, a developer "commits" changes, meaning they save a snapshot of their work.
